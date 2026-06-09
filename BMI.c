@@ -2,7 +2,7 @@
 int main()
 
 {
-
+//bmi calculator
 
 float h,w,BMI;
 message:
